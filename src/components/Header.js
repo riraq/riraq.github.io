@@ -3,9 +3,9 @@ import NavbarBrand from "./NavbarBrand";
 import NavbarBtn from "./NavbarBtn";
 import NavTabs from "./NavTabs";
 
-function Footer() {
+function Header() {
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-light ">
+    <nav className="navbar navbar-expand-sm navbar-light bg-light ">
       <div className="container-fluid">
         <NavbarBrand />
         <NavbarBtn />
@@ -15,4 +15,4 @@ function Footer() {
   )
 }
 
-export default Footer;
+export default Header;
