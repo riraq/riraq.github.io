@@ -2,10 +2,12 @@ import React from "react";
 
 function Home() {
   return (
-    <div>
-      <h1 className="text-center">I'm Rony Iraq</h1>
-      <h2 className="text-center">Full Stack Developer</h2>
-      <img src="assets/images/profile_pic.jpg" id="profilePic" className="float-start me-3 w-50" alt="headshot of Rony Iraq" />
+    <div className="m-3 p-2 row">
+      <img src="assets/images/profile_pic.jpg" id="profilePic" className="float-start me-3 col w-25" alt="headshot of Rony Iraq" />
+      <div className="col d-flex align-items-center">
+        <h1 className="text-center">I'm Rony Iraq</h1>
+        <h2 className="text-center">Full Stack Developer</h2>
+      </div>
 
       <p>
         I am currently attending The Coding Boot Camp at UT Austin with a focus on Web

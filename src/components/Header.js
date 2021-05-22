@@ -5,7 +5,7 @@ import NavTabs from "./NavTabs";
 
 function Header() {
   return (
-    <nav className="navbar navbar-expand-sm navbar-light bg-light mb-3">
+    <nav className="navbar navbar-expand-sm navbar-light mb-3">
       <div className="container-fluid">
         <NavbarBrand />
         <NavbarBtn />

@@ -2,12 +2,11 @@ import React from "react";
 
 function Footer() {
   return (
-    <footer className="footer row mx-auto my-4 text-center">
+    <footer className="footer row mt-auto py-3 text-center">
       <div className="row footerContainer">
         <h3>Contact</h3>
         <address>
-          Name: Rony Iraq<br />
-        Email: <a href="mailto:riraq25@gmail.com">riraq25@gmail.com</a><br />
+        Email: <a href="mailto:riraq25@gmail.com">riraq25@gmail.com</a>&nbsp;&nbsp;
         Phone: (561) 685-0578<br />
           <a href="https://github.com/riraq" className="gx-4 px-2 col">GitHub</a>
           <a href="https://www.linkedin.com/in/rony-iraq/" className="gx-4 px-2 col">LinkedIn</a>
