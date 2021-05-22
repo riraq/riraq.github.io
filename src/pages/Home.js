@@ -3,16 +3,30 @@ import React from "react";
 function Home() {
   return (
     <div>
-      <h1>Home Page</h1>
+      <h1>About Me</h1>
+      <img src="assets/images/profile_pic.jpg" id="profilePic" class="float-start me-3" alt="headshot of Rony Iraq" />
+
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque velit, lobortis ut magna
-        varius, blandit rhoncus sem. Morbi lacinia nisi ac dui fermentum, sed luctus urna tincidunt.
-        Etiam ut feugiat ex. Cras non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna
-        imperdiet ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras rutrum
-        ligula in tincidunt commodo. Morbi sit amet mollis orci, in tristique ex. Donec nec ornare
-        elit. Donec blandit est sed risus feugiat porttitor. Vestibulum molestie hendrerit massa non
-        consequat. Vestibulum vitae lorem tortor. In elementum ultricies tempus. Interdum et
-        malesuada fames ac ante ipsum primis in faucibus.
+        My name is Rony Iraq and I am currently attending The Coding Boot Camp at UT Austin with a focus on Web
+        Development. I am working on pivoting my career and exploring the opportunites that come with being a web
+        developer. While I will hope to work for a company, I am happy that I could be a freelancer or start my own
+        business which was almost impossible to do in my previous industry.
+      </p>
+
+      <p>
+        I was born and raised in Florida lived in Los Angeles, CA for a year and currently live in Austin, TX. I
+        graduated from the University of South Florida with a Bachelor's degree in Health Sciences in 2012. I worked
+        in microbiology laboratories for 8 years analyzing bacteria and fungi from indoor air samples. I performed
+        other duties as well while holding roles as a Microbiologist, Quality Assurance Manager, Laboratory Supervisor
+        and Technical Manager. These included data entry using relational databases, supervising/training employees,
+        quality control of reports, internal/external audits, discussing technical details with clients, and many
+        other tasks.
+      </p>
+
+      <p>
+        The ability to use the skills of a developer in any environment is why I want to pursue this. My fascination with creating things using only a computer and knowledge drives
+        me. You don't need highly complex technical equipment or large amounts of capital; a person and a computer can
+        do incredible things and I want to be a part of that.
       </p>
     </div>
   );

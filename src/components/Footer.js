@@ -1,8 +1,6 @@
 import React from "react";
 
 function Footer() {
-
-
   return (
     <footer className="footer row">
     <div className="row footerContainer">
