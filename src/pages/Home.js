@@ -3,11 +3,12 @@ import React from "react";
 function Home() {
   return (
     <div>
-      <h1>About Me</h1>
-      <img src="assets/images/profile_pic.jpg" id="profilePic" class="float-start me-3" alt="headshot of Rony Iraq" />
+      <h1 className="text-center">I'm Rony Iraq</h1>
+      <h2 className="text-center">Full Stack Developer</h2>
+      <img src="assets/images/profile_pic.jpg" id="profilePic" class="float-start me-3 w-50" alt="headshot of Rony Iraq" />
 
       <p>
-        My name is Rony Iraq and I am currently attending The Coding Boot Camp at UT Austin with a focus on Web
+        I am currently attending The Coding Boot Camp at UT Austin with a focus on Web
         Development. I am working on pivoting my career and exploring the opportunites that come with being a web
         developer. While I will hope to work for a company, I am happy that I could be a freelancer or start my own
         business which was almost impossible to do in my previous industry.
