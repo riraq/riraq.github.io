@@ -1,0 +1,38 @@
+[
+  {
+    "projectLink": "https://ancient-hollows-23369.herokuapp.com/",
+    "projectImage": "assets/images/digitalVaccineRegistry.jpg",
+    "projectName": "Digital Vaccine Registry",
+    "projectRepoLink": "https://github.com/wrp90/Vaccination_Tracker"
+  },
+  {
+    "projectLink": "https://riraq.github.io/Nonprofit_Locator/",
+    "projectImage": "assets/images/nonprofitLocator.jpg",
+    "projectName": "Nonprofit Locator",
+    "projectRepoLink": "https://github.com/riraq/Nonprofit_Locator"
+  },
+  {
+    "projectLink": "https://riraq.github.io/Employee_Database/",
+    "projectImage": "",
+    "projectName": "Employee Database",
+    "projectRepoLink": "https://github.com/riraq/Employee_Database"
+  },
+  {
+    "projectLink": "https://damp-caverns-76168.herokuapp.com/",
+    "projectImage": "",
+    "projectName": "Budget Tracker",
+    "projectRepoLink": "https://github.com/riraq/Budget_Tracker"
+  },
+  {
+    "projectLink": "https://riraq.github.io/Work_Day_Scheduler/",
+    "projectImage": "assets/images/workDayScheduler.jpeg",
+    "projectName": "Work Day Scheduler",
+    "projectRepoLink": "https://github.com/riraq/Work_Day_Scheduler"
+  },
+  {
+    "projectLink": "https://riraq.github.io/Random_Password_Generator/",
+    "projectImage": "assets/images/passwordGenerator.jpg",
+    "projectName": "Random Password Generator",
+    "projectRepoLink": "https://github.com/riraq/Random_Password_Generator"
+  }
+]
