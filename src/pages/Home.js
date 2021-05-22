@@ -5,7 +5,7 @@ function Home() {
     <div>
       <h1 className="text-center">I'm Rony Iraq</h1>
       <h2 className="text-center">Full Stack Developer</h2>
-      <img src="assets/images/profile_pic.jpg" id="profilePic" class="float-start me-3 w-50" alt="headshot of Rony Iraq" />
+      <img src="assets/images/profile_pic.jpg" id="profilePic" className="float-start me-3 w-50" alt="headshot of Rony Iraq" />
 
       <p>
         I am currently attending The Coding Boot Camp at UT Austin with a focus on Web
