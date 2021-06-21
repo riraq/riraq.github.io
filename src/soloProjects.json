@@ -1,0 +1,23 @@
+[
+  {
+    "id": 3,
+    "projectLink": "https://desolate-dawn-13561.herokuapp.com/",
+    "projectImage": "assets/images/bookSearch.jpg",
+    "projectName": "Book Search",
+    "projectRepoLink": "https://github.com/riraq/Book_Search"
+  },
+  {
+    "id": 4,
+    "projectLink": "https://riraq.github.io/Employee_Database/",
+    "projectImage": "assets/images/employeeDatabase.jpg",
+    "projectName": "Employee Database",
+    "projectRepoLink": "https://github.com/riraq/Employee_Database"
+  },
+  {
+    "id": 5,
+    "projectLink": "https://damp-caverns-76168.herokuapp.com/",
+    "projectImage": "assets/images/budgetTracker.jpg",
+    "projectName": "Budget Tracker",
+    "projectRepoLink": "https://github.com/riraq/Budget_Tracker"
+  }
+]
