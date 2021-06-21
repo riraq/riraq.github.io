@@ -30,7 +30,7 @@ function Portfolio() {
   }
 
   return (
-    <div>
+    <div className="Site-content">
       <h1 className="text-center">Portfolio</h1>
 
       <h3 className="text-center">Collaborative Projects</h3>

@@ -2,7 +2,7 @@ import React from "react";
 
 function Home() {
   return (
-    <div className="m-3 p-2 row">
+    <div className="m-3 p-2 row Site-content">
       <img src="assets/images/profile_pic.jpg" id="profilePic" className="float-start me-3 col w-25" alt="headshot of Rony Iraq" />
       <div className="col d-flex align-items-center flex-column justify-content-center align-items-start">
         <h1 className="text-center">I'm Rony Iraq</h1>

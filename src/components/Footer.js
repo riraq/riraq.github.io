@@ -2,7 +2,7 @@ import React from "react";
 
 function Footer() {
   return (
-    <footer className="footer row mt-auto py-3 text-center">
+    <footer className="footer row py-3 text-center">
       <div className="row footerContainer">
         <h3>Contact</h3>
         <address>

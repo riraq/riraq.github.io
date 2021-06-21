@@ -1,12 +1,52 @@
 body {
-  background-image: url("./assets/images/bg_img.jpg");
+  background-image: url("./assets/images/bg_img2.jpg");
   min-height: 100%;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
 }
 
 #profilePic {
   max-width: 35%;
 }
 
+.Site-content {
+  flex: 1;
+}
+
+h1, h2, h3, p {
+  color: cornsilk
+}
+
+h3 {
+  text-decoration: underline;
+}
+
 .footer, .navbar {
-  background-color: rgba(204, 83, 27, 0.7)
+  background-color: rgba(34.5, 44.3, 73.3, 0.7);
+  color: cornsilk;
+}
+
+a {
+  font-weight:bold ;
+}
+
+/* unvisited link */
+a:link {
+  color: rgb(231, 163, 60);
+}
+
+/* visited link */
+a:visited {
+  color: rgb(243, 226, 75);
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
 }
