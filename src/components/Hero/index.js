@@ -4,9 +4,9 @@ import "./style.css";
 function Hero() {
 
   return (
-    <div class="px-4 py-5 my-5 text-center">
+    <div class="px-4 py-2 my-5 text-center">
 
-      <img class="d-block mx-auto mb-4" src="assets/images/profile_pic.jpg" alt="" width="300" height="325" />
+      <img class="d-block mx-auto mb-4 img-thumbnail" src="assets/images/profile_pic.jpg" alt="" width="300" height="325" />
 
       <h1 class="display-4 fw-bold">Rony Iraq</h1>
       <h1 class="display-6 fw-bold">Full Stack Developer</h1>

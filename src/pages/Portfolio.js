@@ -1,4 +1,5 @@
 import React from "react";
+import Header from "../components/Header";
 import Project from "../components/Project";
 import collabProjects from "../collabProjects.json"
 import soloProjects from "../soloProjects.json"
@@ -30,19 +31,22 @@ function Portfolio() {
   }
 
   return (
-    <div className="Site-content">
-      <h1 className="text-center">Portfolio</h1>
+    <div>
+      <Header />
+      <div className="Site-content">
+        <h1 className="text-center">Portfolio</h1>
 
-      <h3 className="text-center">Collaborative Projects</h3>
-      <div className="row justify-content-center m-2">
-        {collabProjectList()}
-      </div >
+        <h3 className="text-center">Collaborative Projects</h3>
+        <div className="row justify-content-center m-2">
+          {collabProjectList()}
+        </div >
 
-      <h3 className="text-center">Solo Projects</h3>
-      <div className="row justify-content-center m-2">
-        {soloProjectsList()}
-      </div >
+        <h3 className="text-center">Solo Projects</h3>
+        <div className="row justify-content-center m-2">
+          {soloProjectsList()}
+        </div >
 
+      </div>
     </div>
   );
 }
