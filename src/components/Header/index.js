@@ -1,7 +1,7 @@
 import React from "react";
-import NavbarBrand from "./NavbarBrand";
-import NavbarBtn from "./NavbarBtn";
-import NavTabs from "./NavTabs";
+import NavbarBrand from "../NavbarBrand";
+import NavbarBtn from "../NavbarBtn";
+import NavTabs from "../NavTabs";
 import { Tabs } from "@material-ui/core"
 
 function Header() {
